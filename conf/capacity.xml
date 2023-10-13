@@ -4,9 +4,9 @@
   <deviceProfile id="5" key="DeviceProfile.HPPavilionx360-RTL8821CE"
    deviceProfileTechnology="ac" maxSupportedBandwidth="80MHz" mimo="1x1"
    spatialStreams="1" offset24="-5" offset5="-11" editable="true" />
-  <deviceProfile id="6" key="DeviceProfile.DellVostro5410"
-   deviceProfileTechnology="ax" maxSupportedBandwidth="" mimo=""
-   spatialStreams="" offset24="-11" offset5="-15" editable="true" />
+  <deviceProfile id="6" key="DeviceProfile.DellVostro5410-AX210"
+   deviceProfileTechnology="ax" maxSupportedBandwidth="" mimo="2x2"
+   spatialStreams="4" offset24="-11" offset5="-15" editable="true" />
   <deviceProfile id="7" key="DeviceProfile.AlfaAWUS036ACH"
    deviceProfileTechnology="ac" maxSupportedBandwidth="" mimo=""
    spatialStreams="" offset24="" offset5="13" editable="true" />
