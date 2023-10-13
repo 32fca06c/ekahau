@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<capacityRequirements>
+	<deviceProfiles>
+		<deviceProfile id="5" key="DeviceProfile.HPPavilionx360"
+			deviceProfileTechnology="ac" maxSupportedBandwidth="80MHz" mimo="1x1"
+			spatialStreams="1" offset24="-5" offset5="-11" editable="true" />
+	</deviceProfiles>
+</capacityRequirements>
