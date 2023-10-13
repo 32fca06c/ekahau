@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <capacityRequirements>
-	<deviceProfiles>
-		<deviceProfile id="5" key="DeviceProfile.HPPavilionx360"
-			deviceProfileTechnology="ac" maxSupportedBandwidth="80MHz" mimo="1x1"
-			spatialStreams="1" offset24="-5" offset5="-11" editable="true" />
-	</deviceProfiles>
+ <deviceProfiles>
+  <deviceProfile id="5" key="DeviceProfile.HPPavilionx360-RTL8821CE"
+   deviceProfileTechnology="ac" maxSupportedBandwidth="80MHz" mimo="1x1"
+   spatialStreams="1" offset24="-5" offset5="-11" editable="true" />
+  <deviceProfile id="6" key="DeviceProfile.DellVostro5410"
+   deviceProfileTechnology="ax" maxSupportedBandwidth="" mimo=""
+   spatialStreams="" offset24="-11" offset5="-15" editable="true" />
+  <deviceProfile id="7" key="DeviceProfile.AlfaAWUS036ACH"
+   deviceProfileTechnology="ac" maxSupportedBandwidth="" mimo=""
+   spatialStreams="" offset24="" offset5="13" editable="true" />
+  <deviceProfile id="8" key="DeviceProfile.XiaomiRedmiNote9Pro"
+   deviceProfileTechnology="ac" maxSupportedBandwidth="" mimo=""
+   spatialStreams="" offset24="0" offset5="-7" editable="true" />
+  <deviceProfile id="9" key="DeviceProfile.UrovoDT50"
+   deviceProfileTechnology="" maxSupportedBandwidth="" mimo=""
+   spatialStreams="" offset24="-10" offset5="-17" editable="true" />
+  <deviceProfile id="10" key="DeviceProfile.POCOX3Pro"
+   deviceProfileTechnology="ac" maxSupportedBandwidth="80MHz" mimo="2x2"
+   spatialStreams="" offset24="-9" offset5="-15" editable="true" />
+ </deviceProfiles>
 </capacityRequirements>
